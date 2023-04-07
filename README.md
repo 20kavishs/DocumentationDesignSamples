@@ -1,6 +1,6 @@
-# Documentation Samples
+# Documentation and Software Design Samples
 
-Documentation (User Flow Diagrams, Sequence Diagrams) created by my group and I for our project for client Cereal4Dinner.
+User flow diagrams and sequence qiagrams created by my group and I for our project for client Cereal4Dinner.
 
 API design with SwaggerHub:
 
