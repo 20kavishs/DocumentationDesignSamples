@@ -1,4 +1,4 @@
-# documentationSamples
+# Documentation Samples
 
 Documentation (User Flow Diagrams, Sequence Diagrams) created by my group and I for our project for client Cereal4Dinner.
 
